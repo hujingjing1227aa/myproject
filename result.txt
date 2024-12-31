@@ -1,0 +1,7 @@
+Experimental results
+For double precision:
+DASP has 12 (valid num: 21) matrices faster than cuSPARSE, the geomean is 1.0548843865770254
+DASP has 14 (valid num: 20) matrices faster than CSR5, the geomean is 1.1146081049655139
+DASP has 0 (valid num: 3) matrices faster than TileSpMV, the geomean is 0.054008214596344674
+For half precision:
+DASP has 20 (valid num: 21) matrices faster than cuSPARSE, the geomean is 1.8057955733626199

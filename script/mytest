@@ -1,0 +1,3 @@
+#!/bin/bash/MY TEST
+bash run_spmv_all.sh
+python3 f64_bar.py
